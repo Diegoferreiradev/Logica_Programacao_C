@@ -12,7 +12,7 @@ int main()
     printf("Informe o valor do lado C: ");
     scanf("%d", &c);
 
-    if((a == b)&& (b == c))
+    if((a == b) && (b == c))
     {
         printf("O Triangulo é Equilatero");
     }
